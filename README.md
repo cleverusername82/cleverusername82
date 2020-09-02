@@ -1,5 +1,6 @@
-### Hi there 👋
-I'm currently learning about React Native and Javascript. 
+### Hello
+I'm currently learning about React Native, Javascript, and C#
+I mainly work on mobile projects for a class.
 
 <!--
 **cleverusername82/cleverusername82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
