@@ -1,5 +1,5 @@
 ### Hello
-I'm currently learning about React Native, Javascript, and C#
+I'm currently learning about React Native, Javascript, and C#. 
 I mainly work on mobile projects for a class.
 
 <!--
