@@ -1,5 +1,8 @@
 ### Hello, I'm Logan.
 I'm currently learning about React Native, Javascript, and C#. 
+<br/>
+hi
+<br>
 I mainly work on mobile projects for a class.
 
 <!--
