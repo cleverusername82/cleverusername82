@@ -1,9 +1,9 @@
 ### Hello, I'm Logan.
 I'm currently learning about React Native, Javascript, and C#. 
-<br/>
-hi
 <br>
-I mainly work on mobile projects for a class.
+I mainly work on mobile projects for a class, and a game I'm making independently on the side. 
+<br>
+
 
 <!--
 **cleverusername82/cleverusername82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
