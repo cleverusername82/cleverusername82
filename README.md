@@ -1,9 +1,9 @@
 ### Hello, I'm Logan.
-I'm currently learning about React Native, Javascript, and C#. 
+I'm a highschool senior planning on a computer science degree over the next four years.
 <br>
-I mainly work on mobile projects for a class, and a game I'm making independently on the side. 
+I'm best at and enjoy working with JavaScript and Python, but I'm passionate about C# for game development in Unity. 
 <br>
-
+While not the most experienced, I really do love learning about code and technology in general and would be glad to collaborate or help with any opportunities.
 
 <!--
 **cleverusername82/cleverusername82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
