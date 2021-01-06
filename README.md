@@ -1,7 +1,9 @@
 ### Hello, I'm Logan.
 I'm a highschool senior planning on a computer science degree over the next four years.
 <br>
-I'm best at and enjoy working with JavaScript and Python, but I'm passionate about C# for game development in Unity. 
+<br>
+The languages I'm most experienced with are JavaScript, Python, and Unity C#. I enjoy coding in general but my main passion is game development.
+<br>
 <br>
 While not the most experienced, I really do love learning about code and technology in general and would be glad to collaborate or help with any opportunities.
 
